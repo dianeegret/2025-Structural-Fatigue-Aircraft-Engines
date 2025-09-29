@@ -40,9 +40,9 @@ This capstone practicum, sponsored by **Sandia National Laboratories**, explores
 * **`Egret_Diane_Final_Report.pdf`** – Full final report (methods, results, recommendations).
 * **`EDA.ipynb`** – Exploratory data analysis and preprocessing.
 * **`Modeling.ipynb`** – Machine learning and deep learning models.
-* **`train_FD001.txt`** – Training dataset.
-* **`test_FD001.txt`** – Test dataset.
-* **`RUL_FD001.txt`** – Ground-truth RUL values for test set.
+* **`data/train_FD001.txt`** – Training dataset.
+* **`data/test_FD001.txt`** – Test dataset.
+* **`data/RUL_FD001.txt`** – Ground-truth RUL values for test set.
 
 ## Business Impact
 
@@ -52,7 +52,7 @@ This capstone practicum, sponsored by **Sandia National Laboratories**, explores
 
 ## Credits
 
-Capstone Practicum (MGT 6748) – Georgia Tech, Summer 2025
+Capstone Practicum (MGT 6748) – **Georgia Tech**, Summer 2025
 
 * Project by **Diane Egret**
 * Sponsor: **Sandia National Laboratories**
